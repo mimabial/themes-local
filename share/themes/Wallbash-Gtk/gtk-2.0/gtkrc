@@ -1,7 +1,7 @@
 # Oomox GTK Theme (Numix Fork)
 # Modified as template for Wallbash
 gtk-color-scheme =
-"base_color:#1E2222\nbg_color:#80978F\ntooltip_bg_color:#B2BCB6\nselected_bg_color:#D2A99A\ntext_color:#FFFFFF\nfg_color:#131212\ntooltip_fg_color:#0C0B0C\nselected_fg_color:#FFFFFF\nmenubar_bg_color:#B2BCB6\nmenubar_fg_color:#FFFFFF\ntoolbar_bg_color:#D2A99A\ntoolbar_fg_color:#131212\nmenu_bg_color:#80978F\nmenu_fg_color:#0C0B0C\npanel_bg_color:#1E2222\npanel_fg_color:#295243\nlink_color:#D2A99A\nbtn_bg_color:#B2BCB6\nbtn_fg_color:#FFFFFF\ntitlebar_bg_color:#D2A99A\ntitlebar_fg_color:#131212\nprimary_caret_color:#0C0B0C\nsecondary_caret_color:#0B0C0C\naccent_bg_color:#B2BCB6\n"
+"base_color:#B9B2B1\nbg_color:#5F7792\ntooltip_bg_color:#4E5D75\nselected_bg_color:#313642\ntext_color:#0C0C0C\nfg_color:#FDFDFD\ntooltip_fg_color:#FFFFFF\nselected_fg_color:#0C0C0C\nmenubar_bg_color:#4E5D75\nmenubar_fg_color:#0C0C0C\ntoolbar_bg_color:#313642\ntoolbar_fg_color:#FDFDFD\nmenu_bg_color:#5F7792\nmenu_fg_color:#FFFFFF\npanel_bg_color:#B9B2B1\npanel_fg_color:#293C52\nlink_color:#313642\nbtn_bg_color:#4E5D75\nbtn_fg_color:#0C0C0C\ntitlebar_bg_color:#313642\ntitlebar_fg_color:#FDFDFD\nprimary_caret_color:#FFFFFF\nsecondary_caret_color:#FFFFFF\naccent_bg_color:#4E5D75\n"
 # Default Style
 
 style "murrine-default" {
